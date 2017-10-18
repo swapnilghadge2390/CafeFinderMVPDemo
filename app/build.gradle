@@ -1,0 +1,54 @@
+apply plugin: 'com.android.application'
+ext {
+    MIN_SDK = 19
+    TARGET_SDK = 26
+    BUILD_TOOLS = "26.0.1"
+    SUPPORT_LIB = "26.0.1"
+    BUTTERKNIFE = "8.4.0"
+    OK_HTTP_VERSION = "2.4.0"
+    OK_HTTP_INTERCEPT_VERSION = "3.4.1"
+    SWEET_ALERT_VERSION = "1.3"
+    RX_VERSION = "2.1.0"
+    MULTI_DEX_VERSION = "1.0.1"
+    RESTROFIT_VERSION = "2.1.0"
+            PLAY_SERVICES_VERSION = "11.0.4"
+}
+android {
+    compileSdkVersion TARGET_SDK
+    buildToolsVersion BUILD_TOOLS
+    defaultConfig {
+        applicationId "com.suma.coffeeshopmvpassignment"
+        minSdkVersion MIN_SDK
+        targetSdkVersion TARGET_SDK
+        versionCode 1
+        versionName "1.0"
+        multiDexEnabled true
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+
+    compile "com.android.support:appcompat-v7:$SUPPORT_LIB"
+    compile "com.squareup.retrofit2:retrofit:$RESTROFIT_VERSION"
+    compile "com.squareup.retrofit2:converter-gson:$RESTROFIT_VERSION"
+    compile "com.squareup.okhttp:okhttp:$OK_HTTP_VERSION"
+    compile "com.squareup.okhttp3:logging-interceptor:$OK_HTTP_INTERCEPT_VERSION"
+    compile "com.google.android.gms:play-services:$PLAY_SERVICES_VERSION"
+    compile "com.google.android.gms:play-services-location:$PLAY_SERVICES_VERSION"
+    compile "com.jakewharton:butterknife:$BUTTERKNIFE"
+    compile "com.android.support:multidex:$MULTI_DEX_VERSION"
+    compile "com.squareup.retrofit2:adapter-rxjava:$RESTROFIT_VERSION"
+    annotationProcessor "com.jakewharton:butterknife-compiler:$BUTTERKNIFE"
+    testCompile 'junit:junit:4.12'
+}

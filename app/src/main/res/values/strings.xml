@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CoffeeShopFinder</string>
+    <string name="title_activity_maps">Google Map</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="current_position">Current Position</string>
+    <string name="type_cafe">cafe</string>
+    <string name="open_text">Open</string>
+    <string name="open_status_yes">Yes</string>
+    <string name="open_status_no">No</string>
+    <string name="gps_status_disabled_msg">"GPS is disabled in your device. You can\'t use this app without gps. Would you like to enable it?"</string>
+    <string name="gps_instruction_msg">Goto Settings Page To Enable GPS</string>
+    <string name="permission_denied">permission denied</string>
+    <string name="permission_granted">permission granted</string>
+    <string name="packagename">package</string>
+    <string name="view_error">view can not be NULL</string>
+    <string name="fragment_error">fragment can not be NULL</string>
+    <string name="context_error">context can not be NULL</string>
+    <string name="go_to_permissions_screen">Open permissions</string>
+    <string name="msg_permission_denied">"This app need location permissions. Allow permissions?"</string>
+    <string name="no_thanks">No Thanks</string>
+    <string name="something_went_wrong">Something went wrong! Please try again</string>
+    <string name="network_or_conversion_error_happened">A network or conversion error happened</string>
+    <string name="no_internet_connection_available">No Internet Connection!</string>
+    <string name="error_msg_header">Error-Message</string>
+    <string name="msg_permission_denied_forever">"This app need location permissions. You can\'t use application without location permissions. Allow permissions?"</string>
+    <string name="maximum_query_hit_limit_crossed_msg">Sorry, You have crossed maximum api hit limit</string>
+    <string name="there_is_no_coffeeshop_nearby_msg">There is no cafe nearby</string>
+</resources>

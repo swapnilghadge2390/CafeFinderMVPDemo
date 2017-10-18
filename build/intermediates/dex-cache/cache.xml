@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-11.0.4_b262fff1657ffc771f8bf7bd353ec408af52e088.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_e4bd77398be9bd10919562c27cae0bcad5642858.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-11.0.4_fdd98bae9f0dfa9e41dc50e46d4d393a81d33eee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-11.0.4_801347e2ee4bccbc5397a4f4ec551768bca85d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-11.0.4_d1e8378ac0f1271b2ba3bdf605ab97370d91370d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-11.0.4_55ed3079d1410e52a216617b7ec3e346b492f918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-11.0.4_082bc72490d169d0afd3b83bf5000bf389a2e0a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d095503f29a8dedc55b9326ed97a5902a1527ab9">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.1_5d51cbc927d9725d581e05246ea097d9dffb8269.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.4.1_c3c584f174945684348d05c28cb7ce2398939625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_445606ccd65126adbbf1ecb8886af1578035de7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.4.0_f7cab1aa99616ec4165cfcfbfd68fa0c3e944a9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-11.0.4_a3d0867ba7d702e573c0e8df1bc13b7eb75d7c6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-11.0.4_00e854589f573376ff16fd1a2682e3ccc0addaee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="083e7bc5a9d9404b49b8f34e5091532361fa28e6">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.1_36e418c25a227eb7098b472c98d23834a0673c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-api-phone/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-api-phone-11.0.4_603c2d7e9515e076f61102b3204d216c7ce7fd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_790a1a009b3554737301cc84f09edbfa44d5d4dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-11.0.4_33f7b1aba90075f2cfbb409e9492f31a3e15340e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_e05db7a2aa06fcc03aafccb54fc8be9ffe3ce618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_3eb5d924046dc76519e7fb1e8f872e8313d8af57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-11.0.4_27537b499437be7b77fd27de385a19c4fdcac0b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_d5692c2e464818613a1f78607cdc35152a6d6b87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-11.0.4_10e9fffca2bd0134a338758b677eedbc0165c7ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-11.0.4_89721111084d406e9edbebf11407124db5b5ce09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7424f816f538c2acfba6169b25e297ea22afbd8">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.1_79d97923d98aedc14262c00914d549ba1cdeeef6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-dynamic-links/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-dynamic-links-11.0.4_5260dd7ba1f39ae68dbe00136735f92f4de07681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-11.0.4_4a037ec422336d6ec53956dd7b2ab91ac12fbaee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-awareness-11.0.4_d77fed57b4fc169e074a1e1f8ff39713fded6dcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-common-11.0.4_0fdc4677d54cce9eadbf1a1bd00fc9402066e064.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-instantapps-11.0.4_9022dc71a14afd82479c54d446c552b66ea7038f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/gson-2.7_2210b47cb91430d67155af50d04f83bcc1d19393.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.1_04f1d1b9d2705592cdb0b2108c185909f6b001c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.4.0_020df6af9ed6398abf93262d2478f094123984ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-multidex-1.0.1_223de61d1783a5947c1fb3da16825db0b0c834de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a4590fa7eadce322ca893129fdc999074e1aa5bf">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.1_b6a1dc382c29b660cfce5a6ab8f3b840c7b7f946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-11.0.4_595809bf2e5723d4239ecffa17a2b5286e434049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-11.0.4_90261377bf4f2b24d14ceb246565355e51fe6252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-v4-impl-11.0.4_c3dd705d731c462476f438a5c2aa1ada4f8758f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-11.0.4_12846d2330e13abbf3ff15e7ca8ed09f441b6c64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.5/ece7b5d0870e66d8226dab6dcf47a2b12afff061/rxjava-1.1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ece7b5d0870e66d8226dab6dcf47a2b12afff061">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/rxjava-1.1.5_2a7eb9b79ed8a3bf0ceaf8c66534863a06f3f700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22c673e65215e0764add61e3102946de895439e4">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.1_56ad9e4040265921adecd7e8a3f4143d0ed1cffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-11.0.4_1ec3fb0e1367b95f0ed75c0f72a101c0a8e715a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-11.0.4_1cf6d2f7047d61e8171d34314cd4b74c2a13358c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-11.0.4_dd72bb274f4c5ad590c111bd0ecd5b88439a62d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="681eeeaec5300e5257ad9bf889c3859ba3833d5a">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.1_bb24df5fbca1e84cebe5965304bddb5a4da1a265.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-11.0.4_78bd7973739ef71eb531b1a7f6c9b29a27b4649e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-11.0.4_fd0cbb5745eefa3973e1471412991ef01995fd3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-11.0.4_df906868febb05ffafcc7875a2190eb1704cd68c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.1/e1bb32b12b25e2f78e6786059ca7ea878f8345e0/support-annotations-26.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e1bb32b12b25e2f78e6786059ca7ea878f8345e0">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.1_2fee8a6d8a9aceda35e89856c778f04c864de791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-11.0.4_eb9473be449a0cf8b685b39f98709b13c0f31f69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-11.0.4_8673a42206912d87fa028972cab69722cb80b0fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/okio-1.9.0_dca389b2a422cd168d302e4474498ffeffe4e0e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-11.0.4_ec8c3ab1fa1a460c2b9087f733076ef1966a210b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-11.0.4_fdf17efc09d5952500567a04e608239e37b117ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-11.0.4_5ec7ec448c4fdafedb8cca11a820dfb84ab8c90c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-11.0.4_c6b4786cc27adfe873038403df9180df17f3c0ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-25.2.0_55d4e86a54188f084c328ababadbf38088d72f66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_abca4d5eee6576168945c778de1cb032657b16ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_f5b4ff20ae1c4889abcbf72ec907bf0667c822a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-11.0.4_4bc3fe6cc8433b05e24fedf5bb5c4a1f65a2cb78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_f9b0c6a527313c01866d772ca56be7a26aca6c9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-11.0.4_efb0551c8df631f90e154c2bbe19e63e0899c0b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dff4d8f88fe2c0e57306e6981fd9b90caeead7e3">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.1_2b05b6c612efc228b301a4c0b85096862e93a6d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_df6d4a38af0aaa01588868ef227c3b75669e832e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-11.0.4_d42d94a11a648f8779d77c000bc9a45f19f8d173.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.1.0/693eddc23e87ab13f9cf5001707ce8e7e1d1ff01/adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/adapter-rxjava-2.1.0_dae7f7fb8c41bdf28a38f2489934e73130a4dc21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-11.0.4_f72c883b6b4ebdfe8a5daf1126e71081a94d2bc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_da738302c4c643bd2a03b00621fa838c012a7375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-11.0.4_7bfbc3c16263d85ec6b7fc3f343871f02418efaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-appindexing-11.0.4_e6a0a306566863e7a5de3f645a9c4af5b0efbe3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/okhttp-2.4.0_dcd13aacb7eba6f6cdd3c72b9047ea89dca81176.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-11.0.4_680b9a74cadd82e9640ae14be7d59625bbfe57cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/palette-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-25.2.0_68f4c3eced038699a49577a1583360db776f595c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_66260d23c968bee0e40f21d0c10e51a2ea65ccc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-11.0.4_9b383976ee5ec59472fe3b3f83520bd6c4bbb46d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="71af915b7f4f7ec0b5f768b365145bb6a5cb9a66">
+        <dex dex="/Users/suma/Downloads/CoffeeShopMVPAssignment/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.1_8f298f619f33c84a9883b4f27cd27110416c2d1b.jar" />
+    </item>
+
+</items>
